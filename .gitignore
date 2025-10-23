@@ -1,0 +1,9 @@
+# Archivos de objeto (Object files)
+*.o
+# Ejecutable por defecto de GCC
+*.out
+
+
+# VS Code
+.vscode/
+
