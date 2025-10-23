@@ -249,6 +249,9 @@ gcc -o signals signals.c; ./signals
 ```bash
 gcc -o alarm alarm.c; ./alarm
 ```
-
+##### Utilizando argumento de tiempo para señal ALARM - ( ./alarm {segundos} )
+```bash
+gcc -o alarm alarm.c; ./alarm 5
+```
 
 *Proyecto es con fines educativos para demuestrar conceptos fundamentales de programación de sistemas en Linux.*
